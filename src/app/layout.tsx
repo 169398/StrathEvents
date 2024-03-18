@@ -9,7 +9,8 @@ import '@/styles/globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'ABSA CONNECT',
+  title: 'STRATH EVENTS',
+  description: "Find events happening at Strathmore University",
 }
 
 export default function RootLayout({
