@@ -10,8 +10,8 @@ import { notFound } from 'next/navigation'
 import { ReactNode } from 'react'
 
 export const metadata: Metadata = {
-  title: 'absa connect',
-  description: 'absa social app',
+  title: 'Strath events',
+  description: 'Strathmore events application ',
 }
 
 const Layout = async ({
